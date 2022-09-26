@@ -48,7 +48,7 @@
 </p>
 </p>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leomainini&show_icons=true&locale=en&layout=compact" alt="leomainini" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leomainini&show_icons=true&locale=en&layout=compact&theme=dark" alt="leomainini" />
 </p>
-<p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=leomainini&show_icons=true&locale=en" alt="leomainini" />
+<p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=leomainini&show_icons=true&locale=en&theme=dark" alt="leomainini" />
 </p>
