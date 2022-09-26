@@ -2,7 +2,7 @@
 <h3 align="center">I'm a software developer in training and student at 42 School Lisbon</h3>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=leomainini&label=Profile%20views&color=0e75b6&style=flat" alt="leomainini" />
-</p> - 🌱 I’m currently learning **C and other languages and frameworks as i go** - 📫 How to reach me **leonardo.mainini275@gmail.com** - 📄 Get more a more detailed view on [my resume](https://www.canva.com/design/DAFNV5amk5s/X0jIUo5qGWe7CRomMLFTMw/view?utm_content=DAFNV5amk5s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) - ⚡ Fun fact **a 60 hour project can be done in 3 days if sleep is optional** <h3 align="left">Connect with me:</h3>
+</p> - 🌱 I’m currently learning **C and other languages and frameworks as i go** - 📫 How to reach me **leonardo.mainini275@gmail.com** - 📄 Get more a more detailed view on <a href="https://www.canva.com/design/DAFNV5amk5s/X0jIUo5qGWe7CRomMLFTMw/view?utm_content=DAFNV5amk5s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"my resume </a> - ⚡ Fun fact **a 60 hour project can be done in 3 days if sleep is optional** <h3 align="left">Connect with me:</h3>
 <p align="left"></p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
