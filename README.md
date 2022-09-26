@@ -50,5 +50,5 @@
 <p>
   <img align="left"  width="35%" src="https://github-readme-stats.vercel.app/api/top-langs?username=leomainini&show_icons=true&locale=en&layout=compact&theme=dark" alt="leomainini" />
 </p>
-<p>&nbsp; <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=leomainini&show_icons=true&locale=en&theme=dark" alt="leomainini" />
+<p>&nbsp; <img align="right" width="42%" src="https://github-readme-stats.vercel.app/api?username=leomainini&show_icons=true&locale=en&theme=dark" alt="leomainini" />
 </p>
