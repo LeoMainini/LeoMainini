@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Leo</h1>
 <h3 align="center">I'm a software developer in training and student at 42 School Lisbon</h3>
-🌱 I’m currently learning C and other languages and frameworks as i go<br>
+🌱 I’m currently learning C, C++ and other languages and frameworks as i go<br>
 📫 Reach my mailbox at leonardo.mainini275@gmail.com<br>
 📄 Get more a more detailed view on <b><a href="https://www.canva.com/design/DAFNV5amk5s/X0jIUo5qGWe7CRomMLFTMw/view?utm_content=DAFNV5amk5s" target="_blank">my resume </a></b><br>
 ⚡ Did you know that a 60 hour project can be done in 3 days if sleep is optional?<br>
